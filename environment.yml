@@ -21,3 +21,5 @@ dependencies:
   - ipyevents
   - ipympl
   - jupyterlab_miami_nights
+  - ipywidgets
+  
