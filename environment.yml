@@ -5,3 +5,19 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - python-dateutil
+  - pytz
+  - tzdata
+  - jinja2
+  - tabulate
+  - BeautifulSoup4
+  - html5lib
+  - lxml
+  - jupytext
+  - ipyevents
+  - ipympl
+  - jupyterlab_miami_nights
