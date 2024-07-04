@@ -1,12 +1,8 @@
 # xeus-python + JupyterLite demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
+xeus-python + JupyterLite deployed as a static site to GitHub Pages.
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
-
-https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb
+https://wxcuop.github.io/jupyterlite-xeus
 
 ## ≠ How does it compare to the Pyodide kernel?
 
@@ -25,12 +21,6 @@ https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb
 - **Does not provide** a way to dynamically install packages (yet. We are working on building a ``mamba`` package manager for WASM)
 - **Supports** sleeping with ``from time import sleep``
 - **Supports** pre-installing packages from ``emscripten-forge`` and ``conda-forge``, by providing an ``environment.yml`` file defining the runtime environment
-
-## 💡 How to make your own deployment
-
-![Deploy your own](deploy.gif)
-
-Then your site will be published under https://{USERNAME}.github.io/{DEMO_REPO_NAME}
 
 ## 📦 How to install extra packages
 
