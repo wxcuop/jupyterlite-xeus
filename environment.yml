@@ -6,6 +6,7 @@ dependencies:
   - xeus-python
   - matplotlib
   - pandas
+  - ipycanvas
   - jinja2
   - tabulate
   - BeautifulSoup4
