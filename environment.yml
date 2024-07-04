@@ -17,4 +17,4 @@ dependencies:
   - ipywidgets
   - ipydatagrid #just use via pip?
   - jupyterlab-filesystem-access
-  - jupyterlab-open-url-parameter
+
