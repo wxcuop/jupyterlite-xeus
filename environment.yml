@@ -18,5 +18,4 @@ dependencies:
   - ipywidgets
   - ipydatagrid #just use via pip?
   - jupyterlab-filesystem-access
-  - ipyaggrid
 
